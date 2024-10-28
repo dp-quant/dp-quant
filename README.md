@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 Links:
- - Github - [here](https://github.com/erlrange)
- - LinkedIn - [here](https://www.linkedin.com/in/erlrange/)
+ - Github - [here](https://github.com/dp-qiant)
+ - LinkedIn - [here](https://www.linkedin.com/in/dpquant/)
  - Upwork - [here](https://www.upwork.com/freelancers/~012830e7a07f9ff38d)
 
 
