@@ -6,15 +6,16 @@ Links:
  - Upwork - [here](https://www.upwork.com/freelancers/~012830e7a07f9ff38d)
 
 
-My name is Dmytro. I'm a software engineer who is interested in web development, high-load systems, data analysis, and a lot of other cool things, IT and open-source enthusiast. Today I’m focusing on Python and Go-lang development as a platform engineer, focusing on AWS tech stack and serverless solutions. On the other side, I'm looking for new great stuff from the JavaScript world(ReactJS, NodeJs, GatsbyJS, etc). 
+🧠 Code-first. Bullshit-last.
 
----
+ I'm a backend-heavy software engineer with a taste for high-load systems, full-stack app architecture, and open-source chaos. I architect and build things that scale, survive, and self-heal - from microservices to SOA beasts: mostly with Python and Go as my weapons of choice.
+ 
+My current playground is the serverless and cloud-native world - AWS, Terraform, event-driven pipelines, infra as code - all the gritty backend ops that keep the lights on and the pagers silent.
 
-Generally, I was starting my “professional” life as a dude that created HTML templates with tables and images. But today, I'm a dedicated solution engineer, platform architect, and product technical leader on our teams. 
+I’ve been getting my hands dirty with AI too - running LLMs under RAG setups, wiring AI agents to workflows, and working with computer vision models for real-world decision making.
 
----
-
-Now I'm ready for new challenges such as build an IT community in my hometown Zaporizhzhia (meetups, user groups, conferences), co-organizer of the Zaporizhzian Python User Group community and Edison Hub mentor.
+I’m passionate about sharing knowledge - mentoring younger devs, running lectures, and guiding teams through complex technical challenges. Troubleshooting is my detective story - chasing down obscure bugs, dissecting failures, and uncovering root causes that hide in plain sight.
+Native of a small city, citizen of the tech world. Once I was slicing table-based layouts for lunch money. Now I’m designing platforms that don’t blink under pressure. Still hungry, still building, still learning
 
 
 ### My services:
